@@ -22,6 +22,6 @@
     "react-native": "*"
   },
   "devDependencies": {
-    "standard-version": "^4.0.0"
+    "standard-version": "^9.5.0"
   }
 }
